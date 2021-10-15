@@ -1,18 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site – My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <title>My New Hugo Site</title>
+    <link>http://10.36.171.58/</link>
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Oct 2021 16:50:47 +0200</lastBuildDate>
-    
-	  <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Fri, 15 Oct 2021 13:36:35 +0200</lastBuildDate><atom:link href="http://10.36.171.58/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secondweek</title>
+      <link>http://10.36.171.58/posts/secondweek/</link>
+      <pubDate>Fri, 15 Oct 2021 13:36:35 +0200</pubDate>
       
-      
+      <guid>http://10.36.171.58/posts/secondweek/</guid>
+      <description>In meiner zweiten Woche habe ich einen eigenen Webserver erstellt, womit ich bei Linux eine eigene Website gestallten konnte. Dabei wurde mir immer gut geholfen. Als ich eine Website gestaltet habe sollte ich eine Website erstellen, die mit Hugo, welches ein Programm ist die eine Website aufpeppt. Dabei musste man ein bestimmtes Theme auswählen und downloaden. Dieses Theme hat die Website verändert. Als Letztes bin ich der Meinung, dass diese zwei Wochen bei Klesys viel Spaß gemacht haben.</description>
+    </item>
     
+    <item>
+      <title>Firstweek</title>
+      <link>http://10.36.171.58/posts/firstweek/</link>
+      <pubDate>Fri, 15 Oct 2021 11:55:38 +0200</pubDate>
+      
+      <guid>http://10.36.171.58/posts/firstweek/</guid>
+      <description>In meiner ersten Woche, habe ich zu beginn grundsätzlich die Grundlagen der Programmierung gelernt. Dabei habe ich das Programm Visual Studio 2019 genutzt und Programme geschrieben die oft mathematische Aufgaben behielten. Als ich anfing hatte man sich gut um mich gekümmert. Die Aufgaben waren leicht zu lösen, falls ich mal Probleme hatte, konnte ich einen Kollegen fragen der dann auch sofort geholfen hat. Mir wurden auch noch viele andere Grundlagen beigebracht.</description>
+    </item>
+    
+    <item>
+      <title>End</title>
+      <link>http://10.36.171.58/posts/end/</link>
+      <pubDate>Wed, 13 Oct 2021 16:50:47 +0200</pubDate>
+      
+      <guid>http://10.36.171.58/posts/end/</guid>
+      <description>Die Letzte Seite Der letzte post ist darüber wie dein Alltag im Büro endet, du freust dich darüber, deine Arbeitszeit ist abgesessen, du hast deine Aufgaben beendet und den tag voll ausgenutzt. Jetzt hast du Feierabend! Freu dich darüber! Geh nach Hause! Bewerte diese Seite mit 5 Stenen auf allen Sozialen netzwerken Teile diesen Link und freu dich darüber, dass du darüberbescheid weist wie ein Tag im Büro aussieht, geheime Informationen wurden nicht verbreitet nutzt diese Informationen sinnvoll.</description>
+    </item>
+    
+    <item>
+      <title>Later</title>
+      <link>http://10.36.171.58/posts/later/</link>
+      <pubDate>Wed, 13 Oct 2021 16:37:56 +0200</pubDate>
+      
+      <guid>http://10.36.171.58/posts/later/</guid>
+      <description>Was macht man später? Nachem du eine Stunde deine Pause verbracht hast, gehst du zurück an deinem Arbeitsplatz, jetzt gibt es verschiede szenarien die sich abspielen können:
+ Szenario Du hast deine zugeteilte Aufgabe noch nicht beendet und führst sie fort. Szenario Du sollst was wichtigeres machen. Szenario Du machst etwas was langweilig ist und die für den Arbeitgeber unwichtig ist.  </description>
+    </item>
+    
+    <item>
+      <title>Break</title>
+      <link>http://10.36.171.58/posts/break/</link>
+      <pubDate>Wed, 13 Oct 2021 16:24:59 +0200</pubDate>
+      
+      <guid>http://10.36.171.58/posts/break/</guid>
+      <description>Was macht man in der Pause?&amp;mdash;
+In der Pause sitzt du nicht im Büro, denn du suchst dir außerhalb vom Büro ein Platz an dem du eine Stunde deine Pause verbringst, was du dabei machst ist dir überlassen.</description>
+    </item>
+    
+    <item>
+      <title>Menü</title>
+      <link>http://10.36.171.58/posts/men%C3%BC/</link>
+      <pubDate>Wed, 13 Oct 2021 13:28:03 +0200</pubDate>
+      
+      <guid>http://10.36.171.58/posts/men%C3%BC/</guid>
+      <description>Ein tag im Büro biginnt häufig unterschiedlich, doch der Ablauf ist klar, sich erstmal auf sein Platz zu begeben Rechner an und mal schauen was passiert.&amp;mdash;</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>http://10.36.171.58/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Oct 2021 11:47:20 +0200</pubDate>
+      
+      <guid>http://10.36.171.58/posts/my-first-post/</guid>
+      <description>Willkommen auf meiner ersten Seite Hier entwickelt sich eine hochqualifizierte Website, denn hier findest du Imformationen über den Alltag im Büro.</description>
+    </item>
     
   </channel>
 </rss>
