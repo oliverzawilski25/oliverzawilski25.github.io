@@ -1,0 +1,102 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site – Posts</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Oct 2021 16:50:47 +0200</lastBuildDate>
+    
+	  <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+        
+      
+    
+    
+    <item>
+      <title>Posts: End</title>
+      <link>http://example.org/posts/end/</link>
+      <pubDate>Wed, 13 Oct 2021 16:50:47 +0200</pubDate>
+      
+      <guid>http://example.org/posts/end/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Die Letzte Seite
+Der letzte post ist darüber wie dein Alltag im Büro endet, du freust dich darüber, deine Arbeitszeit ist abgesessen, du hast deine Aufgaben beendet und den tag voll ausgenutzt.
+Jetzt hast du Feierabend! Freu dich darüber! Geh nach Hause!
+Bewerte diese Seite mit 5 Stenen auf allen Sozialen netzwerken Teile diesen Link und freu dich darüber, dass du darüberbescheid weist wie ein Tag im Büro aussieht, geheime Informationen wurden nicht verbreitet nutzt diese Informationen sinnvoll.
+Bestimmte Personen wurden nicht genannt und dessen Informationen wurden nicht verbreitet.
+Ein großen dank an alle Leser*innen!&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Later</title>
+      <link>http://example.org/posts/later/</link>
+      <pubDate>Wed, 13 Oct 2021 16:37:56 +0200</pubDate>
+      
+      <guid>http://example.org/posts/later/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Was macht man später?
+Nachem du eine Stunde deine Pause verbracht hast, gehst du zurück an deinem Arbeitsplatz, jetzt gibt es verschiede szenarien die sich abspielen können:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Szenario Du hast deine zugeteilte Aufgabe noch nicht beendet und führst sie fort.&lt;/li&gt;
+&lt;li&gt;Szenario Du sollst was wichtigeres machen.&lt;/li&gt;
+&lt;li&gt;Szenario Du machst etwas was langweilig ist und die für den Arbeitgeber unwichtig ist.&lt;/li&gt;
+&lt;/ol&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Break</title>
+      <link>http://example.org/posts/break/</link>
+      <pubDate>Wed, 13 Oct 2021 16:24:59 +0200</pubDate>
+      
+      <guid>http://example.org/posts/break/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Was macht man in der Pause?&amp;mdash;&lt;/p&gt;
+&lt;p&gt;In der Pause sitzt du nicht im Büro, denn du suchst dir außerhalb vom Büro ein Platz an dem du eine Stunde deine Pause verbringst, was du dabei machst ist dir überlassen.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: Menü</title>
+      <link>http://example.org/posts/men%C3%BC/</link>
+      <pubDate>Wed, 13 Oct 2021 13:28:03 +0200</pubDate>
+      
+      <guid>http://example.org/posts/men%C3%BC/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Ein tag im Büro biginnt häufig unterschiedlich, doch der Ablauf ist klar, sich erstmal auf sein Platz zu begeben Rechner an und mal schauen was passiert.&amp;mdash;&lt;/p&gt;
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Posts: My First Post</title>
+      <link>http://example.org/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Oct 2021 11:47:20 +0200</pubDate>
+      
+      <guid>http://example.org/posts/my-first-post/</guid>
+      <description>
+        
+        
+        &lt;p&gt;Willkommen auf meiner ersten Seite
+Hier entwickelt sich eine hochqualifizierte Website, denn hier findest du Imformationen über den Alltag im Büro.&lt;/p&gt;
+
+      </description>
+    </item>
+    
+  </channel>
+</rss>
